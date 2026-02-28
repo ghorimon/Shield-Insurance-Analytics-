@@ -66,35 +66,27 @@ This Power BI project delivers a **multi-page analytical dashboard** that provid
 
 ## 📸 Dashboard Preview
 
-### 🏠 Overview Page
+### 🏠 Home Page
 
-![Overview Page](your-screenshot-path-here)
+![Overview Page](dashboard_views/overview.png)
 
-KPI cards showing Revenue (₹989.25M), Customers (27K), ARPU (36.86K), and Avg Settlement% — with MoM variance indicators, policy count trends, and customer distribution across age groups.
+---
+
+### 📊 General View Page
+
+![Sales Mode Page](dashboard_views/general.png)
 
 ---
 
 ### 💳 Sales Mode Analysis Page
 
-![Sales Mode Page](your-screenshot-path-here)
-
-Revenue and customer split by sales mode via donut charts. City-level bar chart breakdown across Chennai, Delhi NCR, Hyderabad, Indore & Mumbai. Monthly sales mode trend line chart.
-
----
-
-### 👥 Age Group Analysis Page
-
-![Age Group Page](your-screenshot-path-here)
-
-Settlement % by age group, sales mode preference by age cohort, policy preference analysis, and customer split across age groups via trend line.
+![Age Group Page](dashboard_views/sales.png)
 
 ---
 
 ### 📋 Customer Segmentation Page
 
-![Segmentation Page](your-screenshot-path-here)
-
-Scrollable segmentation table ranked by revenue contribution (City × Age Group), customers by month toggle chart, and summary split tables for Age Group and City.
+![Segmentation Page](dashboard_views/age.png)
 
 ---
 
