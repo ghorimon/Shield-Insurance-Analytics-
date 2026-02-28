@@ -2,6 +2,7 @@
 
 ## 🏢 Company: Shield Insurance
 
+![Shield Insurance](Gemini_Generated_Image_17uzxt17uzxt17uz.png)
 ---
 
 ## 📌 Project Overview
