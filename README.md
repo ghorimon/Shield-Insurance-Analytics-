@@ -144,5 +144,5 @@ Special gratitude to mentors **Dhaval Patel** and **Hemanand** for their structu
 
 **Your Name**
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rimonghosh/)
+- 🌐 [Portfolio](https://codebasics.io/portfolio/Rimon-Ghosh)
